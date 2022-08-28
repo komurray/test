@@ -8,9 +8,7 @@ public class Account {
 	// Constructor
 	// New Comment for balance
 
-	public Account(double balance) {
-		this("Unknown", balance);
-	}
+	
 
 
 	public Account(String name, double balance) {
